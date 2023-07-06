@@ -10,3 +10,8 @@ The App Title column displays the window title of the running application
 Filter filters the list on 'name' only
 
 Processes can be grouped by selected the 'Group By' radio button. This is usefull for handling many processes for one application such as multiple chrome processes per browser tab. When items are grouped, the PIDs are concatenated in one line and memory is summed.
+
+The right-click context menu provides 2 options:
+
+1. Order the list by name
+2. Kill the process (kills via PID)
